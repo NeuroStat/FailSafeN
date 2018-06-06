@@ -1,0 +1,21 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	21848	-42.9	-22.3	49.1	0.11129062	-38	-24	54	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+					0.031807568	-58	-22	20	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+					0.027301801	-50	-8	46	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+					0.025966715	-58	6	26	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+					0.024939511	-50	-20	30	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+					0.02487976	-56	0	36	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+2	12928	-2.4	-3.1	53.7	0.104240924	-4	-6	54	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+3	12480	5.5	-55.9	-21.9	0.07952477	18	-54	-22	Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+					0.053360593	-22	-56	-26	Left Cerebellum.Anterior Lobe.*.Gray Matter.*
+					0.034547932	6	-58	-14	Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+4	8368	37.6	-26.6	52.5	0.047687102	40	-22	52	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+					0.036183838	38	-38	44	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+					0.035874866	42	-40	46	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+					0.032759354	32	-16	64	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+					0.028792478	26	-14	50	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+5	7472	-22.8	-8.6	4.7	0.050936628	-24	-6	4	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+					0.046466902	-32	-4	4	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+					0.043904327	-16	-16	6	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+6	1888	19.6	-10.7	6	0.03332148	22	-8	4	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+					0.028679986	14	-18	10	Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus

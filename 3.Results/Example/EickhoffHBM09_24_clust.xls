@@ -1,0 +1,25 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	24208	-43	-22.2	48.9	0.109391935	-38	-24	54	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+					0.02960147	-58	-22	20	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+					0.025826782	-58	6	26	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+					0.024924997	-50	-20	30	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+					0.023890713	-56	0	36	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+					0.021689704	-50	-8	46	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+2	14096	-2.6	-2.8	53.7	0.09962568	-4	-6	54	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+3	13320	5.9	-55.7	-22.2	0.07873594	18	-54	-22	Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+					0.05267818	-22	-56	-26	Left Cerebellum.Anterior Lobe.*.Gray Matter.*
+					0.030996876	4	-60	-14	Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+4	11008	38.9	-28.2	50.7	0.04571146	40	-22	52	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+					0.036053404	38	-38	44	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+					0.03573224	42	-40	46	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+					0.028162904	26	-14	50	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+					0.020644331	52	-24	38	Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+					0.01795986	34	-60	50	Right Cerebrum.Parietal Lobe.Superior Parietal Lobule.Gray Matter.Brodmann area 7
+					0.017048461	38	-56	48	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 7
+5	8592	-23.9	-8.6	4.6	0.04938129	-22	-8	4	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+					0.042797398	-16	-16	6	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+					0.04078657	-34	-4	4	Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+					0.020188421	-46	-4	10	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+6	2784	20	-10.6	6.2	0.03326747	22	-8	4	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+					0.028262146	14	-18	10	Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+					0.01662446	26	2	14	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen

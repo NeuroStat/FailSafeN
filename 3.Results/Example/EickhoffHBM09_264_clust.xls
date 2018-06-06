@@ -1,0 +1,11 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	12784	-40.1	-23.9	53	0.11993874	-38	-24	54	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+					0.050413195	-46	-36	52	Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+					0.04537208	-54	-22	44	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+					0.039764028	-32	-34	44	Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+2	11560	-1.6	-2.9	53	0.11578874	-4	-6	54	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+3	6240	17.3	-54.4	-21.8	0.0875769	18	-54	-22	Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+					0.04008619	6	-56	-14	Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+4	3832	-22.8	-9.2	4.2	0.059919186	-22	-8	4	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+5	2720	-20.2	-55.5	-23.2	0.062638246	-22	-56	-24	Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+					0.034485277	-10	-62	-12	Left Cerebellum.Posterior Lobe.Declive.Gray Matter.*

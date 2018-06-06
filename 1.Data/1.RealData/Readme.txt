@@ -1,0 +1,1 @@
+Data from the example used in the paper, including original paper, list of studies, and result of the ALE meta-analysis.

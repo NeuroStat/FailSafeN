@@ -1,0 +1,1236 @@
+//Reference=MNI
+//Exp1-real
+//Subjects=1
+48 -66 -6
+45 -66 -6
+47 -66 -6
+46 -67 -7
+46 -66 -6
+48 -67 -6
+46 -65 -5
+47 -65 -4
+ 
+//Reference=MNI
+//Exp2-real
+//Subjects=1
+45 -66 -6
+47 -66 -6
+46 -67 -7
+46 -66 -6
+48 -67 -6
+46 -65 -5
+47 -65 -4
+46 -64 -4
+ 
+//Reference=MNI
+//Exp3-real
+//Subjects=1
+47 -66 -6
+46 -67 -7
+46 -66 -6
+48 -67 -6
+46 -65 -5
+47 -65 -4
+46 -64 -4
+47 -65 -6
+ 
+//Reference=MNI
+//Exp4-nullst
+//Subjects=1
+46 -67 -7
+46 -66 -6
+48 -67 -6
+46 -65 -5
+47 -65 -4
+46 -64 -4
+47 -65 -6
+46 -65 -5
+ 
+//Reference=MNI
+//Exp5-nullst
+//Subjects=1
+46 -66 -6
+48 -67 -6
+46 -65 -5
+47 -65 -4
+46 -64 -4
+47 -65 -6
+46 -65 -5
+47 -66 -7
+ 
+//Reference=MNI
+//Exp6-nullst
+//Subjects=1
+48 -67 -6
+46 -65 -5
+47 -65 -4
+46 -64 -4
+47 -65 -6
+46 -65 -5
+47 -66 -7
+45 -65 -6
+ 
+//Reference=MNI
+//Exp7-nullst
+//Subjects=1
+46 -65 -5
+47 -65 -4
+46 -64 -4
+47 -65 -6
+46 -65 -5
+47 -66 -7
+45 -65 -6
+47 -66 -6
+ 
+//Reference=MNI
+//Exp8-nullst
+//Subjects=1
+47 -65 -4
+46 -64 -4
+47 -65 -6
+46 -65 -5
+47 -66 -7
+45 -65 -6
+47 -66 -6
+45 -67 -6
+ 
+//Reference=MNI
+//Exp9-nullst
+//Subjects=2
+46 -64 -4
+47 -65 -6
+46 -65 -5
+47 -66 -7
+45 -65 -6
+47 -66 -6
+45 -67 -6
+47 -66 -5
+ 
+//Reference=MNI
+//Exp10-nullst
+//Subjects=2
+47 -65 -6
+46 -65 -5
+47 -66 -7
+45 -65 -6
+47 -66 -6
+45 -67 -6
+47 -66 -5
+48 -68 -8
+ 
+//Reference=MNI
+//Exp11-nullst
+//Subjects=2
+46 -65 -5
+47 -66 -7
+45 -65 -6
+47 -66 -6
+45 -67 -6
+47 -66 -5
+48 -68 -8
+46 -67 -7
+ 
+//Reference=MNI
+//Exp12-nullst
+//Subjects=2
+47 -66 -7
+45 -65 -6
+47 -66 -6
+45 -67 -6
+47 -66 -5
+48 -68 -8
+46 -67 -7
+47 -66 -7
+ 
+//Reference=MNI
+//Exp13-nullst
+//Subjects=2
+45 -65 -6
+47 -66 -6
+45 -67 -6
+47 -66 -5
+48 -68 -8
+46 -67 -7
+47 -66 -7
+47 -65 -7
+ 
+//Reference=MNI
+//Exp14-nullst
+//Subjects=2
+47 -66 -6
+45 -67 -6
+47 -66 -5
+48 -68 -8
+46 -67 -7
+47 -66 -7
+47 -65 -7
+47 -67 -7
+ 
+//Reference=MNI
+//Exp15-nullst
+//Subjects=2
+45 -67 -6
+47 -66 -5
+48 -68 -8
+46 -67 -7
+47 -66 -7
+47 -65 -7
+47 -67 -7
+46 -67 -7
+ 
+//Reference=MNI
+//Exp16-nullst
+//Subjects=2
+47 -66 -5
+48 -68 -8
+46 -67 -7
+47 -66 -7
+47 -65 -7
+47 -67 -7
+46 -67 -7
+47 -66 -7
+ 
+//Reference=MNI
+//Exp17-nullst
+//Subjects=3
+48 -68 -8
+46 -67 -7
+47 -66 -7
+47 -65 -7
+47 -67 -7
+46 -67 -7
+47 -66 -7
+46 -67 -7
+ 
+//Reference=MNI
+//Exp18-nullst
+//Subjects=3
+46 -67 -7
+47 -66 -7
+47 -65 -7
+47 -67 -7
+46 -67 -7
+47 -66 -7
+46 -67 -7
+14 18 40
+ 
+//Reference=MNI
+//Exp19-nullst
+//Subjects=3
+47 -66 -7
+47 -65 -7
+47 -67 -7
+46 -67 -7
+47 -66 -7
+46 -67 -7
+14 18 40
+-6 -12 -30
+ 
+//Reference=MNI
+//Exp20-nullst
+//Subjects=3
+47 -65 -7
+47 -67 -7
+46 -67 -7
+47 -66 -7
+46 -67 -7
+14 18 40
+-6 -12 -30
+50 2 28
+ 
+//Reference=MNI
+//Exp21-nullst
+//Subjects=3
+47 -67 -7
+46 -67 -7
+47 -66 -7
+46 -67 -7
+14 18 40
+-6 -12 -30
+50 2 28
+-48 48 8
+ 
+//Reference=MNI
+//Exp22-nullst
+//Subjects=3
+46 -67 -7
+47 -66 -7
+46 -67 -7
+14 18 40
+-6 -12 -30
+50 2 28
+-48 48 8
+-4 -84 -24
+ 
+//Reference=MNI
+//Exp23-nullst
+//Subjects=3
+47 -66 -7
+46 -67 -7
+14 18 40
+-6 -12 -30
+50 2 28
+-48 48 8
+-4 -84 -24
+-12 -48 52
+ 
+//Reference=MNI
+//Exp24-nullst
+//Subjects=3
+46 -67 -7
+14 18 40
+-6 -12 -30
+50 2 28
+-48 48 8
+-4 -84 -24
+-12 -48 52
+20 44 26
+ 
+//Reference=MNI
+//Exp25-nullst
+//Subjects=1
+14 18 40
+-6 -12 -30
+50 2 28
+-48 48 8
+-4 -84 -24
+-12 -48 52
+20 44 26
+36 22 52
+ 
+//Reference=MNI
+//Exp26-nullst
+//Subjects=1
+-6 -12 -30
+50 2 28
+-48 48 8
+-4 -84 -24
+-12 -48 52
+20 44 26
+36 22 52
+-52 10 2
+ 
+//Reference=MNI
+//Exp27-nullst
+//Subjects=1
+50 2 28
+-48 48 8
+-4 -84 -24
+-12 -48 52
+20 44 26
+36 22 52
+-52 10 2
+-10 0 44
+ 
+//Reference=MNI
+//Exp28-nullst
+//Subjects=1
+-48 48 8
+-4 -84 -24
+-12 -48 52
+20 44 26
+36 22 52
+-52 10 2
+-10 0 44
+64 6 6
+ 
+//Reference=MNI
+//Exp29-nullst
+//Subjects=1
+-4 -84 -24
+-12 -48 52
+20 44 26
+36 22 52
+-52 10 2
+-10 0 44
+64 6 6
+-4 46 34
+ 
+//Reference=MNI
+//Exp30-nullst
+//Subjects=1
+-12 -48 52
+20 44 26
+36 22 52
+-52 10 2
+-10 0 44
+64 6 6
+-4 46 34
+-28 -58 -14
+ 
+//Reference=MNI
+//Exp31-nullst
+//Subjects=1
+20 44 26
+36 22 52
+-52 10 2
+-10 0 44
+64 6 6
+-4 46 34
+-28 -58 -14
+-34 16 46
+ 
+//Reference=MNI
+//Exp32-nullst
+//Subjects=1
+36 22 52
+-52 10 2
+-10 0 44
+64 6 6
+-4 46 34
+-28 -58 -14
+-34 16 46
+-28 0 -22
+ 
+//Reference=MNI
+//Exp33-nullst
+//Subjects=2
+-52 10 2
+-10 0 44
+64 6 6
+-4 46 34
+-28 -58 -14
+-34 16 46
+-28 0 -22
+-4 -54 56
+ 
+//Reference=MNI
+//Exp34-nullst
+//Subjects=2
+-10 0 44
+64 6 6
+-4 46 34
+-28 -58 -14
+-34 16 46
+-28 0 -22
+-4 -54 56
+-30 -26 56
+ 
+//Reference=MNI
+//Exp35-nullst
+//Subjects=2
+64 6 6
+-4 46 34
+-28 -58 -14
+-34 16 46
+-28 0 -22
+-4 -54 56
+-30 -26 56
+-32 16 14
+ 
+//Reference=MNI
+//Exp36-nullst
+//Subjects=2
+-4 46 34
+-28 -58 -14
+-34 16 46
+-28 0 -22
+-4 -54 56
+-30 -26 56
+-32 16 14
+-40 -16 68
+ 
+//Reference=MNI
+//Exp37-nullst
+//Subjects=2
+-28 -58 -14
+-34 16 46
+-28 0 -22
+-4 -54 56
+-30 -26 56
+-32 16 14
+-40 -16 68
+-26 54 32
+ 
+//Reference=MNI
+//Exp38-nullst
+//Subjects=2
+-34 16 46
+-28 0 -22
+-4 -54 56
+-30 -26 56
+-32 16 14
+-40 -16 68
+-26 54 32
+-38 14 54
+ 
+//Reference=MNI
+//Exp39-nullst
+//Subjects=2
+-28 0 -22
+-4 -54 56
+-30 -26 56
+-32 16 14
+-40 -16 68
+-26 54 32
+-38 14 54
+18 66 8
+ 
+//Reference=MNI
+//Exp40-nullst
+//Subjects=2
+-4 -54 56
+-30 -26 56
+-32 16 14
+-40 -16 68
+-26 54 32
+-38 14 54
+18 66 8
+-20 34 50
+ 
+//Reference=MNI
+//Exp41-nullst
+//Subjects=3
+-30 -26 56
+-32 16 14
+-40 -16 68
+-26 54 32
+-38 14 54
+18 66 8
+-20 34 50
+-56 -38 14
+ 
+//Reference=MNI
+//Exp42-nullst
+//Subjects=3
+-32 16 14
+-40 -16 68
+-26 54 32
+-38 14 54
+18 66 8
+-20 34 50
+-56 -38 14
+-38 -14 -20
+ 
+//Reference=MNI
+//Exp43-nullst
+//Subjects=3
+-40 -16 68
+-26 54 32
+-38 14 54
+18 66 8
+-20 34 50
+-56 -38 14
+-38 -14 -20
+44 48 -18
+ 
+//Reference=MNI
+//Exp44-nullst
+//Subjects=3
+-26 54 32
+-38 14 54
+18 66 8
+-20 34 50
+-56 -38 14
+-38 -14 -20
+44 48 -18
+-40 34 10
+ 
+//Reference=MNI
+//Exp45-nullst
+//Subjects=3
+-38 14 54
+18 66 8
+-20 34 50
+-56 -38 14
+-38 -14 -20
+44 48 -18
+-40 34 10
+-44 -52 -48
+ 
+//Reference=MNI
+//Exp46-nullst
+//Subjects=3
+18 66 8
+-20 34 50
+-56 -38 14
+-38 -14 -20
+44 48 -18
+-40 34 10
+-44 -52 -48
+8 46 0
+ 
+//Reference=MNI
+//Exp47-nullst
+//Subjects=3
+-20 34 50
+-56 -38 14
+-38 -14 -20
+44 48 -18
+-40 34 10
+-44 -52 -48
+8 46 0
+-4 12 28
+ 
+//Reference=MNI
+//Exp48-nullst
+//Subjects=3
+-56 -38 14
+-38 -14 -20
+44 48 -18
+-40 34 10
+-44 -52 -48
+8 46 0
+-4 12 28
+0 38 28
+ 
+//Reference=MNI
+//Exp49-nullst
+//Subjects=4
+-38 -14 -20
+44 48 -18
+-40 34 10
+-44 -52 -48
+8 46 0
+-4 12 28
+0 38 28
+14 16 -22
+ 
+//Reference=MNI
+//Exp50-nullst
+//Subjects=4
+44 48 -18
+-40 34 10
+-44 -52 -48
+8 46 0
+-4 12 28
+0 38 28
+14 16 -22
+-6 -46 -42
+ 
+//Reference=MNI
+//Exp51-nullst
+//Subjects=4
+-40 34 10
+-44 -52 -48
+8 46 0
+-4 12 28
+0 38 28
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+ 
+//Reference=MNI
+//Exp52-nullst
+//Subjects=4
+-44 -52 -48
+8 46 0
+-4 12 28
+0 38 28
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+22 10 70
+ 
+//Reference=MNI
+//Exp53-nullst
+//Subjects=4
+8 46 0
+-4 12 28
+0 38 28
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+22 10 70
+-8 20 -28
+ 
+//Reference=MNI
+//Exp54-nullst
+//Subjects=4
+-4 12 28
+0 38 28
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+22 10 70
+-8 20 -28
+48 44 22
+ 
+//Reference=MNI
+//Exp55-nullst
+//Subjects=4
+0 38 28
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+22 10 70
+-8 20 -28
+48 44 22
+-40 -56 -28
+ 
+//Reference=MNI
+//Exp56-nullst
+//Subjects=4
+14 16 -22
+-6 -46 -42
+-44 -66 -46
+22 10 70
+-8 20 -28
+48 44 22
+-40 -56 -28
+-32 -62 -8
+ 
+//Reference=MNI
+//Exp57-nullst
+//Subjects=5
+-6 -46 -42
+-44 -66 -46
+22 10 70
+-8 20 -28
+48 44 22
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+ 
+//Reference=MNI
+//Exp58-nullst
+//Subjects=5
+-44 -66 -46
+22 10 70
+-8 20 -28
+48 44 22
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+ 
+//Reference=MNI
+//Exp59-nullst
+//Subjects=5
+22 10 70
+-8 20 -28
+48 44 22
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+54 14 34
+ 
+//Reference=MNI
+//Exp60-nullst
+//Subjects=5
+-8 20 -28
+48 44 22
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+54 14 34
+-10 6 -16
+ 
+//Reference=MNI
+//Exp61-nullst
+//Subjects=5
+48 44 22
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+54 14 34
+-10 6 -16
+20 24 60
+ 
+//Reference=MNI
+//Exp62-nullst
+//Subjects=5
+-40 -56 -28
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+54 14 34
+-10 6 -16
+20 24 60
+6 4 -6
+ 
+//Reference=MNI
+//Exp63-nullst
+//Subjects=5
+-32 -62 -8
+-22 -88 -38
+-20 32 58
+54 14 34
+-10 6 -16
+20 24 60
+6 4 -6
+32 18 -14
+ 
+//Reference=MNI
+//Exp64-nullst
+//Subjects=5
+-22 -88 -38
+-20 32 58
+54 14 34
+-10 6 -16
+20 24 60
+6 4 -6
+32 18 -14
+0 44 50
+ 
+//Reference=MNI
+//Exp65-nullst
+//Subjects=6
+-20 32 58
+54 14 34
+-10 6 -16
+20 24 60
+6 4 -6
+32 18 -14
+0 44 50
+28 22 -28
+ 
+//Reference=MNI
+//Exp66-nullst
+//Subjects=6
+54 14 34
+-10 6 -16
+20 24 60
+6 4 -6
+32 18 -14
+0 44 50
+28 22 -28
+-38 -82 -26
+ 
+//Reference=MNI
+//Exp67-nullst
+//Subjects=6
+-10 6 -16
+20 24 60
+6 4 -6
+32 18 -14
+0 44 50
+28 22 -28
+-38 -82 -26
+-44 -74 28
+ 
+//Reference=MNI
+//Exp68-nullst
+//Subjects=6
+20 24 60
+6 4 -6
+32 18 -14
+0 44 50
+28 22 -28
+-38 -82 -26
+-44 -74 28
+12 14 46
+ 
+//Reference=MNI
+//Exp69-nullst
+//Subjects=6
+6 4 -6
+32 18 -14
+0 44 50
+28 22 -28
+-38 -82 -26
+-44 -74 28
+12 14 46
+-32 -14 4
+ 
+//Reference=MNI
+//Exp70-nullst
+//Subjects=6
+32 18 -14
+0 44 50
+28 22 -28
+-38 -82 -26
+-44 -74 28
+12 14 46
+-32 -14 4
+24 6 -32
+ 
+//Reference=MNI
+//Exp71-nullst
+//Subjects=6
+0 44 50
+28 22 -28
+-38 -82 -26
+-44 -74 28
+12 14 46
+-32 -14 4
+24 6 -32
+-28 -28 -28
+ 
+//Reference=MNI
+//Exp72-nullst
+//Subjects=6
+28 22 -28
+-38 -82 -26
+-44 -74 28
+12 14 46
+-32 -14 4
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+ 
+//Reference=MNI
+//Exp73-nullst
+//Subjects=7
+-38 -82 -26
+-44 -74 28
+12 14 46
+-32 -14 4
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+ 
+//Reference=MNI
+//Exp74-nullst
+//Subjects=7
+-44 -74 28
+12 14 46
+-32 -14 4
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+ 
+//Reference=MNI
+//Exp75-nullst
+//Subjects=7
+12 14 46
+-32 -14 4
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp76-nullst
+//Subjects=7
+-32 -14 4
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp77-nullst
+//Subjects=7
+24 6 -32
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp78-nullst
+//Subjects=7
+-28 -28 -28
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp79-nullst
+//Subjects=7
+-56 -42 -12
+-8 -82 -32
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp80-nullst
+//Subjects=7
+-8 -82 -32
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp81-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp82-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp83-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp84-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp85-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp86-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp87-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp88-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp89-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp90-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp91-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp92-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp93-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp94-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp95-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp96-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp97-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp98-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp99-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp100-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp101-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp102-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 
+//Reference=MNI
+//Exp103-nullst
+//Subjects=NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+NA NA NA
+ 

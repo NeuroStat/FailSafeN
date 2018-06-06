@@ -1,0 +1,515 @@
+//Reference=MNI 
+//truestudy_1
+//Subjects=21
+45  -65  -5 
+
+//Reference=MNI 
+//truestudy_2
+//Subjects=19
+46  -65  -6 
+
+//Reference=MNI 
+//truestudy_3
+//Subjects=21
+47  -66  -5 
+
+//Reference=MNI 
+//nullstudy_1
+//Subjects=21
+-12  -92  -24 
+
+//Reference=MNI 
+//nullstudy_2
+//Subjects=19
+-6  32  4 
+
+//Reference=MNI 
+//nullstudy_3
+//Subjects=21
+-32  -82  30 
+
+//Reference=MNI 
+//nullstudy_4
+//Subjects=20
+-20  64  -12 
+
+//Reference=MNI 
+//nullstudy_5
+//Subjects=18
+42  50  -10 
+
+//Reference=MNI 
+//nullstudy_6
+//Subjects=20
+-50  2  -40 
+
+//Reference=MNI 
+//nullstudy_7
+//Subjects=19
+52  12  -24 
+
+//Reference=MNI 
+//nullstudy_8
+//Subjects=19
+-46  -20  50 
+
+//Reference=MNI 
+//nullstudy_9
+//Subjects=20
+-32  -16  60 
+
+//Reference=MNI 
+//nullstudy_10
+//Subjects=23
+-58  -8  8 
+
+//Reference=MNI 
+//nullstudy_11
+//Subjects=22
+28  18  54 
+
+//Reference=MNI 
+//nullstudy_12
+//Subjects=19
+-46  40  -12 
+
+//Reference=MNI 
+//nullstudy_13
+//Subjects=18
+-52  -60  42 
+
+//Reference=MNI 
+//nullstudy_14
+//Subjects=21
+-24  38  24 
+
+//Reference=MNI 
+//nullstudy_15
+//Subjects=18
+12  50  -18 
+
+//Reference=MNI 
+//nullstudy_16
+//Subjects=19
+-54  -36  10 
+
+//Reference=MNI 
+//nullstudy_17
+//Subjects=20
+12  48  14 
+
+//Reference=MNI 
+//nullstudy_18
+//Subjects=20
+26  2  44 
+
+//Reference=MNI 
+//nullstudy_19
+//Subjects=19
+-32  -62  56 
+
+//Reference=MNI 
+//nullstudy_20
+//Subjects=21
+-10  -48  26 
+
+//Reference=MNI 
+//nullstudy_21
+//Subjects=19
+-30  34  30 
+
+//Reference=MNI 
+//nullstudy_22
+//Subjects=20
+-28  2  -6 
+
+//Reference=MNI 
+//nullstudy_23
+//Subjects=20
+-34  -12  44 
+
+//Reference=MNI 
+//nullstudy_24
+//Subjects=19
+6  30  8 
+
+//Reference=MNI 
+//nullstudy_25
+//Subjects=21
+-46  -56  -56 
+
+//Reference=MNI 
+//nullstudy_26
+//Subjects=21
+-12  44  6 
+
+//Reference=MNI 
+//nullstudy_27
+//Subjects=19
+-16  -2  -2 
+
+//Reference=MNI 
+//nullstudy_28
+//Subjects=19
+-12  -32  -2 
+
+//Reference=MNI 
+//nullstudy_29
+//Subjects=20
+-14  64  -10 
+
+//Reference=MNI 
+//nullstudy_30
+//Subjects=20
+-46  48  -4 
+
+//Reference=MNI 
+//nullstudy_31
+//Subjects=21
+-8  -12  56 
+
+//Reference=MNI 
+//nullstudy_32
+//Subjects=18
+28  68  0 
+
+//Reference=MNI 
+//nullstudy_33
+//Subjects=21
+-44  -40  28 
+
+//Reference=MNI 
+//nullstudy_34
+//Subjects=20
+-18  -74  -34 
+
+//Reference=MNI 
+//nullstudy_35
+//Subjects=20
+-60  14  16 
+
+//Reference=MNI 
+//nullstudy_36
+//Subjects=20
+-16  -98  6 
+
+//Reference=MNI 
+//nullstudy_37
+//Subjects=20
+-40  -78  -34 
+
+//Reference=MNI 
+//nullstudy_38
+//Subjects=21
+-28  -42  -32 
+
+//Reference=MNI 
+//nullstudy_39
+//Subjects=18
+-32  38  18 
+
+//Reference=MNI 
+//nullstudy_40
+//Subjects=21
+32  32  18 
+
+//Reference=MNI 
+//nullstudy_41
+//Subjects=21
+-50  20  -22 
+
+//Reference=MNI 
+//nullstudy_42
+//Subjects=21
+-20  -98  -12 
+
+//Reference=MNI 
+//nullstudy_43
+//Subjects=20
+26  6  8 
+
+//Reference=MNI 
+//nullstudy_44
+//Subjects=22
+-62  -36  -4 
+
+//Reference=MNI 
+//nullstudy_45
+//Subjects=20
+-24  0  0 
+
+//Reference=MNI 
+//nullstudy_46
+//Subjects=20
+-10  16  -30 
+
+//Reference=MNI 
+//nullstudy_47
+//Subjects=20
+-54  -68  -20 
+
+//Reference=MNI 
+//nullstudy_48
+//Subjects=19
+22  66  -14 
+
+//Reference=MNI 
+//nullstudy_49
+//Subjects=20
+-30  -44  -52 
+
+//Reference=MNI 
+//nullstudy_50
+//Subjects=19
+-4  -40  8 
+
+//Reference=MNI 
+//nullstudy_51
+//Subjects=18
+20  4  18 
+
+//Reference=MNI 
+//nullstudy_52
+//Subjects=20
+42  36  22 
+
+//Reference=MNI 
+//nullstudy_53
+//Subjects=21
+-6  -22  -40 
+
+//Reference=MNI 
+//nullstudy_54
+//Subjects=20
+-16  -20  -34 
+
+//Reference=MNI 
+//nullstudy_55
+//Subjects=19
+-16  58  -2 
+
+//Reference=MNI 
+//nullstudy_56
+//Subjects=19
+-14  -64  -6 
+
+//Reference=MNI 
+//nullstudy_57
+//Subjects=19
+-6  -16  68 
+
+//Reference=MNI 
+//nullstudy_58
+//Subjects=19
+-22  12  -22 
+
+//Reference=MNI 
+//nullstudy_59
+//Subjects=20
+-48  -8  28 
+
+//Reference=MNI 
+//nullstudy_60
+//Subjects=20
+-12  -102  -12 
+
+//Reference=MNI 
+//nullstudy_61
+//Subjects=19
+38  12  34 
+
+//Reference=MNI 
+//nullstudy_62
+//Subjects=19
+-20  -26  2 
+
+//Reference=MNI 
+//nullstudy_63
+//Subjects=21
+-48  -76  -10 
+
+//Reference=MNI 
+//nullstudy_64
+//Subjects=20
+-32  -56  4 
+
+//Reference=MNI 
+//nullstudy_65
+//Subjects=19
+-4  -74  16 
+
+//Reference=MNI 
+//nullstudy_66
+//Subjects=21
+-22  -58  40 
+
+//Reference=MNI 
+//nullstudy_67
+//Subjects=20
+-16  -68  -42 
+
+//Reference=MNI 
+//nullstudy_68
+//Subjects=21
+-18  10  -44 
+
+//Reference=MNI 
+//nullstudy_69
+//Subjects=18
+-26  6  64 
+
+//Reference=MNI 
+//nullstudy_70
+//Subjects=20
+-10  -56  42 
+
+//Reference=MNI 
+//nullstudy_71
+//Subjects=20
+6  6  74 
+
+//Reference=MNI 
+//nullstudy_72
+//Subjects=21
+-2  -8  48 
+
+//Reference=MNI 
+//nullstudy_73
+//Subjects=21
+-54  -6  22 
+
+//Reference=MNI 
+//nullstudy_74
+//Subjects=22
+-46  18  -14 
+
+//Reference=MNI 
+//nullstudy_75
+//Subjects=21
+-8  -86  8 
+
+//Reference=MNI 
+//nullstudy_76
+//Subjects=19
+-68  -10  -14 
+
+//Reference=MNI 
+//nullstudy_77
+//Subjects=20
+-16  -20  -18 
+
+//Reference=MNI 
+//nullstudy_78
+//Subjects=19
+-36  10  42 
+
+//Reference=MNI 
+//nullstudy_79
+//Subjects=20
+-48  16  18 
+
+//Reference=MNI 
+//nullstudy_80
+//Subjects=21
+-34  24  56 
+
+//Reference=MNI 
+//nullstudy_81
+//Subjects=19
+-28  20  62 
+
+//Reference=MNI 
+//nullstudy_82
+//Subjects=20
+22  48  32 
+
+//Reference=MNI 
+//nullstudy_83
+//Subjects=18
+38  38  12 
+
+//Reference=MNI 
+//nullstudy_84
+//Subjects=19
+-2  -50  30 
+
+//Reference=MNI 
+//nullstudy_85
+//Subjects=22
+-2  24  28 
+
+//Reference=MNI 
+//nullstudy_86
+//Subjects=18
+-64  -54  -16 
+
+//Reference=MNI 
+//nullstudy_87
+//Subjects=22
+-2  24  -20 
+
+//Reference=MNI 
+//nullstudy_88
+//Subjects=21
+-28  -6  -42 
+
+//Reference=MNI 
+//nullstudy_89
+//Subjects=21
+-26  6  -36 
+
+//Reference=MNI 
+//nullstudy_90
+//Subjects=19
+-14  -52  -2 
+
+//Reference=MNI 
+//nullstudy_91
+//Subjects=20
+-50  14  -12 
+
+//Reference=MNI 
+//nullstudy_92
+//Subjects=19
+22  26  42 
+
+//Reference=MNI 
+//nullstudy_93
+//Subjects=21
+36  22  54 
+
+//Reference=MNI 
+//nullstudy_94
+//Subjects=20
+-62  -26  8 
+
+//Reference=MNI 
+//nullstudy_95
+//Subjects=21
+-8  -86  36 
+
+//Reference=MNI 
+//nullstudy_96
+//Subjects=22
+-26  0  -22 
+
+//Reference=MNI 
+//nullstudy_97
+//Subjects=21
+-32  -16  56 
+
+//Reference=MNI 
+//nullstudy_98
+//Subjects=20
+-44  0  26 
+
+//Reference=MNI 
+//nullstudy_99
+//Subjects=18
+-12  -52  58 
+
+//Reference=MNI 
+//nullstudy_100
+//Subjects=21
+-6  66  20 
+

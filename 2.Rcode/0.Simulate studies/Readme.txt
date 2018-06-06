@@ -1,0 +1,1 @@
+This is the code used for simulating the real and null studies, in matlab.
