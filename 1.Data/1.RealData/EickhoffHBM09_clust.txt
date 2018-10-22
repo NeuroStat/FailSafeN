@@ -7,20 +7,20 @@ Foci:
 Coordinate System             = MNI
 File of foci coordinates      = EickhoffHBM09.txt
 Number of foci                = 654
-Number of experiments         = 73
-Total number of subjects      = 648
+Number of experiments         = 38
+Total number of subjects      = 340
 
 ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
 File of ALE voxels            = EickhoffHBM09_ALE.nii
 FWHM minimum value            = 9.501798304955097
-FWHM median value             = 10.164010215663069
+FWHM median value             = 10.362276299774612
 FWHM maximum value            = 19.072644189655946
 Minimum ALE score             = 4.9E-44
-Maximum ALE score             = 0.10505067
+Maximum ALE score             = 0.074209824
 
 P Values: Eickhoff (HBM, 2009)
 File of P values              = EickhoffHBM09_P.nii
-Minimum P value               = 7.4E-44
+Minimum P value               = 3.9208496E-30
 
 Thresholding:
 Threshold Method              = Cluster-level Inference
@@ -28,451 +28,378 @@ Thresholding Value            = 0.05
 Thresholding Permutations     = 1000
 Cluster-Forming Method        = Uncorrected P value
 Cluster-Forming Value         = 0.001
-Volume > Threshold            = 86600 mm^3
-Chosen min. cluster size      = 1256 mm^3
+Volume > Threshold            = 67544 mm^3
+Chosen min. cluster size      = 1136 mm^3
 Thresholded ALE image         = EickhoffHBM09_ALE_C05_1k.nii
 
 Cluster Analysis:
- #1: 27736 mm^3 from (-64,-46,10) to (-26,12,72) centered at (-43.4,-21.8,48.1)
-   Extrema: (Labels are within +/-5mm)
-     0.10505067 at (-38,-24,54)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
-     0.029562471 at (-58,-22,20)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
-     0.025826763 at (-58,6,26)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     0.024781758 at (-50,-20,30)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
-     0.023854127 at (-56,0,36)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     0.018117927 at (-50,-8,46)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
-   Labels: (Nearest gray within +/-5mm)
-     6312mm Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
-     4952mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
-     4752mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
-     3840mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
-     3040mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     1952mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
-     768mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     440mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
-     392mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 41
-     312mm Left Cerebrum.Temporal Lobe.Transverse Temporal Gyrus.Gray Matter.Brodmann area 41
-     216mm No Gray Matter found
-     200mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 42
-     144mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 1
-     128mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 40
-     120mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 43
-     40mm Left Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 4
-     40mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
-     24mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 41
-     16mm Left Cerebrum.Temporal Lobe.Insula.Gray Matter.Brodmann area 41
-     16mm Left Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
-     8mm Left Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 40
-     8mm Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 2
-     8mm Left Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 2
-     8mm Left Cerebrum.Parietal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
+  #1: 20488 mm^3 from (-64,-46,10) to (-26,-6,72) centered at (-42.4,-23.4,50)
+    Extrema: (Labels are within +/-5mm)
+      0.074209824 at (-38,-24,54)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      0.029201938 at (-48,-38,52)	Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+      0.021789065 at (-52,-26,14)	Left Cerebrum.Temporal Lobe.Transverse Temporal Gyrus.Gray Matter.Brodmann area 41
+      0.020919967 at (-52,-22,32)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      0.020768775 at (-60,-22,20)	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+    Labels: (Nearest gray within +/-5mm)
+      4848mm Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+      4176mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      4032mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      3392mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      1744mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+      600mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      568mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      360mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 41
+      272mm Left Cerebrum.Temporal Lobe.Transverse Temporal Gyrus.Gray Matter.Brodmann area 41
+      168mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 42
+      88mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 40
+      72mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 1
+      56mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 43
+      40mm Left Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 4
+      24mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 41
+      16mm Left Cerebrum.Temporal Lobe.Insula.Gray Matter.Brodmann area 41
+      8mm Left Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      8mm Left Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 2
+      8mm Left Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 2
+      8mm Left Cerebrum.Parietal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
 
- #2: 14792 mm^3 from (-36,-70,-34) to (32,-44,-8) centered at (5.1,-56,-22.3)
-   Extrema: (Labels are within +/-5mm)
-     0.078528084 at (18,-54,-22)	Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
-     0.05221448 at (-22,-56,-26)	Left Cerebellum.Anterior Lobe.*.Gray Matter.*
-     0.030750653 at (4,-60,-14)	Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
-   Labels: (Nearest gray within +/-5mm)
-     4632mm Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
-     3392mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
-     1288mm Right Cerebellum.Anterior Lobe.*.Gray Matter.*
-     1280mm Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
-     1152mm Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
-     888mm Left Cerebellum.Posterior Lobe.Declive.Gray Matter.*
-     880mm Left Cerebellum.Anterior Lobe.*.Gray Matter.*
-     736mm Left Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
-     264mm Right Cerebellum.Anterior Lobe.Fastigium.Gray Matter.*
-     160mm Right Cerebellum.Anterior Lobe.Nodule.Gray Matter.*
-     56mm Right Cerebellum.Anterior Lobe.Cerebellar Lingual.Gray Matter.*
-     32mm Left Cerebellum.Posterior Lobe.Uvula.Gray Matter.*
-     16mm Right Cerebellum.Posterior Lobe.*.Gray Matter.Dentate
-     16mm Left Cerebellum.Anterior Lobe.Fastigium.Gray Matter.*
+  #2: 12688 mm^3 from (-20,-18,40) to (12,14,68) centered at (-2.5,-2.6,53)
+    Extrema: (Labels are within +/-5mm)
+      0.065038785 at (-4,-6,52)	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+      0.054191217 at (2,0,52)	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+    Labels: (Nearest gray within +/-5mm)
+      6056mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+      2544mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      2048mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+      664mm Left Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
+      640mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      208mm Left Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 6
+      136mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      136mm Right Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 6
+      112mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 32
+      88mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
+      32mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+      24mm Left Cerebrum.Limbic Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
 
- #3: 13704 mm^3 from (22,-56,18) to (66,-10,70) centered at (39.5,-28.2,49.9)
-   Extrema: (Labels are within +/-5mm)
-     0.04570187 at (40,-22,52)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
-     0.03568093 at (38,-38,44)	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
-     0.023534829 at (26,-16,50)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
-     0.018675098 at (52,-24,38)	Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
-     0.016875215 at (64,-30,20)	Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     0.016745644 at (56,-32,32)	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
-     0.014702927 at (58,-26,24)	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
-   Labels: (Nearest gray within +/-5mm)
-     4856mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
-     3296mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
-     2152mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
-     920mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
-     600mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     528mm No Gray Matter found
-     352mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
-     192mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
-     192mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
-     136mm Right Cerebrum.Parietal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
-     104mm Right Cerebrum.Parietal Lobe.Precuneus.Gray Matter.Brodmann area 7
-     88mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     88mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 40
-     64mm Right Cerebrum.Frontal Lobe.Sub-Gyral.Gray Matter.Brodmann area 6
-     40mm Right Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
-     32mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 7
-     24mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
-     16mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
-     16mm Right Cerebrum.Parietal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
-     8mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 42
+  #3: 8624 mm^3 from (-50,-24,-6) to (-10,6,16) centered at (-24.6,-8.7,4.7)
+    Extrema: (Labels are within +/-5mm)
+      0.03301656 at (-32,-4,4)	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      0.031805474 at (-24,-6,4)	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      0.03090092 at (-16,-18,8)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+      0.016557096 at (-48,-4,8)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+    Labels: (Nearest gray within +/-5mm)
+      2720mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      1168mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      968mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      784mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
+      640mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      512mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      448mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+      296mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+      216mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+      192mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+      152mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Mammillary Body
+      136mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+      120mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+      104mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      96mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+      40mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
+      24mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Anterior Nucleus
+      8mm Left Brainstem.Midbrain.*.Gray Matter.Substania Nigra
 
- #4: 13640 mm^3 from (-20,-22,40) to (12,16,68) centered at (-2.4,-2.7,53.1)
-   Extrema: (Labels are within +/-5mm)
-     0.09199591 at (-4,-6,54)	Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
-     0.015667286 at (-16,-20,48)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
-   Labels: (Nearest gray within +/-5mm)
-     6288mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
-     2760mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
-     2248mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
-     680mm Left Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
-     640mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
-     280mm Left Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 6
-     232mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
-     200mm Right Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 6
-     144mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 32
-     120mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
-     24mm Left Cerebrum.Limbic Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
-     16mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 32
-     8mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+  #4: 7680 mm^3 from (-6,-70,-34) to (32,-44,-10) centered at (16,-56.5,-21.2)
+    Extrema: (Labels are within +/-5mm)
+      0.047102448 at (18,-54,-22)	Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+      0.026701462 at (2,-62,-16)	Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+    Labels: (Nearest gray within +/-5mm)
+      3824mm Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      1120mm Right Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+      960mm Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+      760mm Right Cerebellum.Anterior Lobe.*.Gray Matter.*
+      504mm Left Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+      288mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      176mm Right Cerebellum.Anterior Lobe.Fastigium.Gray Matter.*
+      24mm Right Cerebellum.Anterior Lobe.Nodule.Gray Matter.*
+      16mm Right Cerebellum.Posterior Lobe.*.Gray Matter.Dentate
+      8mm Right Cerebellum.Anterior Lobe.Cerebellar Lingual.Gray Matter.*
 
- #5: 11256 mm^3 from (-58,-24,-6) to (-8,18,16) centered at (-24.9,-7.9,4.7)
-   Extrema: (Labels are within +/-5mm)
-     0.049165037 at (-22,-8,4)	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
-     0.0407845 at (-34,-4,4)	Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
-     0.040121872 at (-16,-16,6)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
-     0.020134129 at (-46,-4,10)	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     0.016031321 at (-16,12,4)	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
-   Labels: (Nearest gray within +/-5mm)
-     3480mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
-     1224mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
-     1168mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
-     920mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
-     904mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     880mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
-     440mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
-     384mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     288mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
-     240mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
-     232mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
-     200mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
-     192mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Mammillary Body
-     176mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
-     160mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
-     160mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
-     96mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
-     48mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Anterior Nucleus
-     40mm Left Brainstem.Midbrain.*.Gray Matter.Subthalamic Nucleus
-     16mm Left Brainstem.Midbrain.*.Gray Matter.Substania Nigra
-     8mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Dorsal Nucleus
+  #5: 4952 mm^3 from (22,-32,46) to (44,-10,68) centered at (35.4,-20.4,56.8)
+    Extrema: (Labels are within +/-5mm)
+      0.027584236 at (38,-22,58)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      0.026873175 at (38,-22,54)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      0.018016322 at (26,-16,50)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+    Labels: (Nearest gray within +/-5mm)
+      2744mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      1248mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      456mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      136mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+      120mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      80mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      72mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      40mm Right Cerebrum.Frontal Lobe.Sub-Gyral.Gray Matter.Brodmann area 6
+      24mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+      16mm Right Cerebrum.Parietal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
+      8mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+      8mm Right Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
 
- #6: 3504 mm^3 from (8,-24,-4) to (30,6,16) centered at (20.3,-10.5,7.5)
-   Extrema: (Labels are within +/-5mm)
-     0.028792791 at (22,-8,4)	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
-     0.028143669 at (14,-18,10)	Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
-     0.016595459 at (28,2,14)	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
-   Labels: (Nearest gray within +/-5mm)
-     944mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
-     576mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
-     536mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
-     496mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
-     376mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
-     120mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
-     96mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
-     96mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
-     80mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
-     64mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
-     56mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Dorsal Nucleus
-     32mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
-     16mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Midline Nucleus
-     8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Anterior Nucleus
-     8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Anterior Nucleus
+  #6: 3504 mm^3 from (-36,-68,-32) to (-10,-50,-14) centered at (-21.4,-57.2,-23.8)
+    Extrema: (Labels are within +/-5mm)
+      0.035299618 at (-22,-56,-26)	Left Cerebellum.Anterior Lobe.*.Gray Matter.*
+      0.013809228 at (-34,-56,-30)	Left Cerebellum.Anterior Lobe.*.Gray Matter.*
+    Labels: (Nearest gray within +/-5mm)
+      2152mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      640mm Left Cerebellum.Anterior Lobe.*.Gray Matter.Dentate
+      536mm Left Cerebellum.Anterior Lobe.*.Gray Matter.*
+      136mm Left Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+      40mm Left Cerebellum.Posterior Lobe.Uvula.Gray Matter.*
 
- #7: 1968 mm^3 from (48,-2,6) to (62,16,28) centered at (55.7,6,16.8)
-   Extrema: (Labels are within +/-5mm)
-     0.022388026 at (58,4,16)	Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
-     0.018644596 at (54,4,24)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-   Labels: (Nearest gray within +/-5mm)
-     704mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
-     696mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
-     312mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
-     136mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
-     80mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
-     40mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+  #7: 3072 mm^3 from (30,-52,38) to (54,-32,54) centered at (41.5,-40.5,45.9)
+    Extrema: (Labels are within +/-5mm)
+      0.031791035 at (38,-38,44)	Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+    Labels: (Nearest gray within +/-5mm)
+      2608mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+      200mm No Gray Matter found
+      88mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 40
+      80mm Right Cerebrum.Parietal Lobe.Precuneus.Gray Matter.Brodmann area 7
+      64mm Right Cerebrum.Parietal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
+      16mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      16mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+
+  #8: 2800 mm^3 from (10,-22,-2) to (30,4,18) centered at (20.2,-10.7,8.3)
+    Extrema: (Labels are within +/-5mm)
+      0.025899366 at (14,-16,10)	Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+      0.020860475 at (22,-8,4)	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      0.016862255 at (24,-14,8)	Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+    Labels: (Nearest gray within +/-5mm)
+      768mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      496mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      424mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
+      376mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      352mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+      96mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+      72mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+      56mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+      56mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Dorsal Nucleus
+      48mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+      16mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+      16mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Midline Nucleus
+      8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+      8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Anterior Nucleus
+      8mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+
+  #9: 2592 mm^3 from (-64,-4,20) to (-48,12,42) centered at (-55.5,3.1,30.2)
+    Extrema: (Labels are within +/-5mm)
+      0.025755841 at (-58,6,26)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      0.019526139 at (-56,0,36)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+    Labels: (Nearest gray within +/-5mm)
+      2048mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      488mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
+      40mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+      16mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+
+ #10: 1144 mm^3 from (46,0,4) to (60,16,20) centered at (54.4,9.2,12.8)
+    Extrema: (Labels are within +/-5mm)
+      0.017568473 at (54,12,12)	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
+    Labels: (Nearest gray within +/-5mm)
+      576mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+      192mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      184mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
+      160mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      24mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
+      8mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
 
 
 Experiment Table:
-[ 1 3 2 4 2 2 4 3 1 2 0 1 2 3 2 1 6 4 1 3 0 0 0 0 0 0 1 1 1 1 0 0 3 3 3 3 1 3 3 1 2 4 0 4 2 4 0 1 1 1 1 3 1 2 2 1 0 1 1 0 1 5 1 2 3 0 2 2 5 5 4 6 3 ]
-[ 0 1 2 2 2 1 0 2 2 1 2 1 1 0 1 0 0 1 0 2 1 2 2 2 2 2 0 0 0 0 0 0 1 2 2 1 0 1 2 0 0 0 0 0 0 0 1 0 0 0 0 2 1 2 2 1 1 2 2 0 0 3 0 0 2 1 3 1 1 2 1 1 3 ]
-[ 0 0 2 2 2 0 2 1 2 0 2 1 1 0 1 0 0 1 1 1 0 0 0 0 0 0 1 1 0 0 1 1 1 2 3 0 0 1 3 0 0 1 0 0 3 2 1 0 0 0 1 0 1 2 2 0 2 3 3 0 1 1 0 2 0 1 0 0 1 1 3 3 1 ]
-[ 0 1 1 2 1 1 2 0 0 1 1 3 3 1 0 0 1 4 0 2 0 0 0 0 0 0 1 1 0 1 0 1 1 2 1 1 2 1 1 1 2 3 2 2 2 2 0 0 0 1 1 2 1 1 1 1 1 1 1 0 0 2 1 1 1 0 2 2 1 1 1 1 2 ]
-[ 0 1 2 2 0 0 2 1 1 0 0 0 0 0 0 0 0 2 0 2 0 0 0 0 0 0 0 0 0 0 0 0 3 2 3 3 0 0 1 2 4 5 0 0 1 0 1 0 0 1 2 1 1 1 2 0 0 1 2 0 0 1 0 1 0 0 0 0 1 0 0 0 0 ]
-[ 0 0 0 2 0 0 2 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 1 0 1 0 0 1 0 1 0 0 0 0 0 0 2 2 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]
-[ 0 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 ]
+[ 5 4 2 3 6 1 2 3 2 2 1 6 4 1 2 2 0 16 4 7 3 1 2 4 0 6 0 4 8 0 2 2 2 1 7 0 1 5 ]
+[ 2 3 1 2 2 3 3 2 1 0 0 1 4 0 2 2 0 4 4 4 1 2 1 2 0 6 2 4 6 0 0 1 2 1 4 0 0 2 ]
+[ 3 2 0 2 0 0 0 1 0 0 0 0 2 0 2 0 0 1 0 6 3 0 0 1 0 9 1 0 1 1 0 1 1 1 6 0 0 1 ]
+[ 3 2 1 0 4 1 1 0 0 1 0 0 0 0 1 1 6 5 0 2 0 0 1 2 0 0 0 3 0 0 0 0 1 1 7 0 0 2 ]
+[ 1 4 0 0 2 1 0 1 0 0 0 0 1 1 0 0 0 0 4 0 0 0 0 2 0 0 0 0 2 0 0 1 0 1 7 0 1 0 ]
+[ 0 2 0 0 3 0 0 0 0 0 0 0 0 0 1 1 5 0 0 2 0 0 1 1 1 0 0 1 0 1 0 0 1 0 3 0 0 1 ]
+[ 1 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 2 1 1 0 0 1 1 0 0 0 0 3 0 0 0 ]
+[ 0 2 0 2 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 1 0 2 0 0 0 1 0 0 0 0 4 0 0 0 ]
+[ 1 2 0 1 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 2 0 0 0 2 0 1 0 0 2 0 0 0 1 0 0 0 0 0 ]
+[ 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 2 0 0 0 ]
 
 Contributors to cluster #1
-1 foci from Aoki T, 2005: Index Finger - Rest 
-3 foci from Aoki T, 2005: Ring Finger - Rest 
-2 foci from Aoki T, 2005: Double Finger Tapping - Rest 
+5 foci from Aoki T, 2005: Index Finger - Rest 
 4 foci from Aramaki Y, 2006: Parallel 
-2 foci from Aramaki Y, 2006: Mirror 
 2 foci from Blinkenberg M, 1996: Fingertapping vs. Rest 
-4 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-3 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
-1 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Young Subjects 
-2 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Older Subjects 
+3 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
+6 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
 1 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
 2 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
-3 foci from De Luca M, 2005: Active Finger Tapping, Controls 
+3 foci from Colebatch J G, 1991: Index - Resst 
+2 foci from De Luca M, 2005: Active Finger Tapping, Controls 
 2 foci from Denslow S, 2005: TMS 
 1 foci from Fox P T, 2004: Finger Movement vs. Sham TMS 
 6 foci from Gelnar P A, 1999: Motor vs. Rest 
 4 foci from Gerardin E, 2000: Motor Execution vs. Rest 
 1 foci from Gosain A K, 2001: Finger-tapping vs. Rest 
-3 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
-1 foci from Jancke L, 2000: Right Fast, Left Slow  
-1 foci from Jancke L, 2000: Right Slow, Left Fast 
-1 foci from Jancke L, 2000: Right Fast 
-1 foci from Jancke L, 2000: Right Slow 
-3 foci from Joliot M, 1999: PET 
-3 foci from Joliot M, 1999: fMRI-Average 
-3 foci from Joliot M, 1999: fMRI-Correlation 
+2 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
+2 foci from Indovina I, 2001: Move vs. No-Move 
+16 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+4 foci from Jancke L, 2000: Right Fast, Left Slow  
+7 foci from Joliot M, 1999: PET 
 3 foci from Joliot M, 1998: Finger Tapping - Rest 
 1 foci from Kawashima R, 1999: Increased Blood Flow, All Movements Compared to Rest 
-3 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
-3 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-1 foci from Lehericy S, 2006: Simple - Rest 
-2 foci from Lehericy S, 2006: Scale - Rest 
-4 foci from Lehericy S, 2006: Complex - Rest 
-4 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
-2 foci from Mattay V S, 1998: Dominant Hand Simple Motor 
-4 foci from Mattay V S, 1998: Dominant Hand Random Motor 
-1 foci from Ramsey N F, 1996: fMRI:  Finger Tapping vs. Rest, Mean 
-1 foci from Ramsey N F, 1996: PET:  Finger Tapping vs. Rest, Mean 
-1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Younger  Subjects 
-1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Older Subjects 
-3 foci from Rounis E, 2005: Main Effects of Movement 
-1 foci from Sadato N, 1996: Various Lengths 
-2 foci from Sadato N, 1997: Mirror vs. Rest 
-2 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Right Unimanual vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
-1 foci from Wilson S M, 2004: Moving Fingers 
-5 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
-1 foci from Colebatch J G, 1991: Index - Resst 
-2 foci from Colebatch J G, 1991: Opposition - Rest 
-3 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
-2 foci from Lutz K, 2000: Random > Rest 
-2 foci from Lutz K, 2000: Regular > Rest 
-5 foci from Jancke L, 2000: Auditory Synchronization > Rest 
-5 foci from Jancke L, 2000: Auditory Continuation > Rest 
-4 foci from Jancke L, 2000: Visual Synchronization > Rest 
-6 foci from Jancke L, 2000: Visual Continuation > Rest 
-3 foci from Reference=MNI Indovina I, 2001: Move vs. No-Move 
-
-Contributors to cluster #2
-1 foci from Aoki T, 2005: Ring Finger - Rest 
-2 foci from Aoki T, 2005: Double Finger Tapping - Rest 
-2 foci from Aramaki Y, 2006: Parallel 
-2 foci from Aramaki Y, 2006: Mirror 
-1 foci from Blinkenberg M, 1996: Fingertapping vs. Rest 
-2 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
-2 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Young Subjects 
-1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Older Subjects 
-2 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Older Subjects 
-1 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
-1 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
-1 foci from Denslow S, 2005: TMS 
-1 foci from Gerardin E, 2000: Motor Execution vs. Rest 
-2 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
-1 foci from Jancke L, 1999: Right Hand, 1 Hz vs. Rest 
-2 foci from Jancke L, 1999: Right Hand, 3 Hz vs. Rest 
-2 foci from Jancke L, 1999: Left Hand, 1 Hz vs. Rest 
-2 foci from Jancke L, 1999: Left Hand, 3 Hz vs. Rest 
-2 foci from Jancke L, 1999: Both Hands, 1 Hz vs. Rest 
-2 foci from Jancke L, 1999: Both Hands, 3 Hz vs. Rest 
-1 foci from Joliot M, 1999: PET 
-2 foci from Joliot M, 1999: fMRI-Average 
-2 foci from Joliot M, 1999: fMRI-Correlation 
-1 foci from Joliot M, 1998: Finger Tapping - Rest 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
-2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
+2 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
+4 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+6 foci from Lehericy S, 2006: Simple - Rest 
+4 foci from Lutz K, 2000: Random > Rest 
+8 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
+2 foci from Ramsey N F, 1996: fMRI:  Finger Tapping vs. Rest, Mean 
+2 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Younger  Subjects 
 2 foci from Rounis E, 2005: Main Effects of Movement 
 1 foci from Sadato N, 1996: Various Lengths 
-2 foci from Sadato N, 1997: Mirror vs. Rest 
-2 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Right Unimanual vs. Rest 
-1 foci from Sadato N, 1997: Left Unimanual vs. Rest 
-2 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-2 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
-3 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
-2 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
-1 foci from Larsson J, 1996: Visually Triggered Movement - Reference 
-3 foci from Lutz K, 2000: Random > Rest 
-1 foci from Lutz K, 2000: Regular > Rest 
-1 foci from Jancke L, 2000: Auditory Synchronization > Rest 
-2 foci from Jancke L, 2000: Auditory Continuation > Rest 
-1 foci from Jancke L, 2000: Visual Synchronization > Rest 
-1 foci from Jancke L, 2000: Visual Continuation > Rest 
-3 foci from Reference=MNI Indovina I, 2001: Move vs. No-Move 
-
-Contributors to cluster #3
-2 foci from Aoki T, 2005: Double Finger Tapping - Rest 
-2 foci from Aramaki Y, 2006: Parallel 
-2 foci from Aramaki Y, 2006: Mirror 
-2 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
-2 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Young Subjects 
-2 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Older Subjects 
-1 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
-1 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
-1 foci from Denslow S, 2005: TMS 
-1 foci from Gerardin E, 2000: Motor Execution vs. Rest 
-1 foci from Gosain A K, 2001: Finger-tapping vs. Rest 
-1 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
-1 foci from Jancke L, 2000: Right Fast, Left Slow  
-1 foci from Jancke L, 2000: Right Slow, Left Fast 
-1 foci from Jancke L, 2000: Left Fast 
-1 foci from Jancke L, 2000: Left Slow 
-1 foci from Joliot M, 1999: PET 
-2 foci from Joliot M, 1999: fMRI-Average 
-3 foci from Joliot M, 1999: fMRI-Correlation 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
-3 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-1 foci from Lehericy S, 2006: Complex - Rest 
-3 foci from Mattay V S, 1998: Dominant Hand Simple Motor 
-2 foci from Mattay V S, 1998: Dominant Hand Random Motor 
-1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
-1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Older Subjects 
-1 foci from Sadato N, 1996: Various Lengths 
-2 foci from Sadato N, 1997: Mirror vs. Rest 
-2 foci from Sadato N, 1997: Parallel vs. Rest 
-2 foci from Sadato N, 1997: Left Unimanual vs. Rest 
-3 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-3 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
+7 foci from Sadato N, 1997: Mirror vs. Rest 
 1 foci from Wilson S M, 2004: Moving Fingers 
-1 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
-2 foci from Colebatch J G, 1991: Opposition - Rest 
-1 foci from Larsson J, 1996: Visually Triggered Movement - Reference 
-1 foci from Jancke L, 2000: Auditory Synchronization > Rest 
-1 foci from Jancke L, 2000: Auditory Continuation > Rest 
-3 foci from Jancke L, 2000: Visual Synchronization > Rest 
-3 foci from Jancke L, 2000: Visual Continuation > Rest 
-1 foci from Reference=MNI Indovina I, 2001: Move vs. No-Move 
+5 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
 
-Contributors to cluster #4
-1 foci from Aoki T, 2005: Ring Finger - Rest 
-1 foci from Aoki T, 2005: Double Finger Tapping - Rest 
-2 foci from Aramaki Y, 2006: Parallel 
-1 foci from Aramaki Y, 2006: Mirror 
+Contributors to cluster #2
+2 foci from Aoki T, 2005: Index Finger - Rest 
+3 foci from Aramaki Y, 2006: Parallel 
 1 foci from Blinkenberg M, 1996: Fingertapping vs. Rest 
 2 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Older Subjects 
-1 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Older Subjects 
+2 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
 3 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
 3 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
+2 foci from Colebatch J G, 1991: Index - Resst 
 1 foci from De Luca M, 2005: Active Finger Tapping, Controls 
 1 foci from Gelnar P A, 1999: Motor vs. Rest 
 4 foci from Gerardin E, 2000: Motor Execution vs. Rest 
 2 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
-1 foci from Jancke L, 2000: Right Fast, Left Slow  
-1 foci from Jancke L, 2000: Right Slow, Left Fast 
-1 foci from Jancke L, 2000: Right Slow 
-1 foci from Jancke L, 2000: Left Slow 
-1 foci from Joliot M, 1999: PET 
-2 foci from Joliot M, 1999: fMRI-Average 
-1 foci from Joliot M, 1999: fMRI-Correlation 
+2 foci from Indovina I, 2001: Move vs. No-Move 
+4 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+4 foci from Jancke L, 2000: Right Fast, Left Slow  
+4 foci from Joliot M, 1999: PET 
 1 foci from Joliot M, 1998: Finger Tapping - Rest 
 2 foci from Kawashima R, 1999: Increased Blood Flow, All Movements Compared to Rest 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-1 foci from Lehericy S, 2006: Simple - Rest 
-2 foci from Lehericy S, 2006: Scale - Rest 
-3 foci from Lehericy S, 2006: Complex - Rest 
+1 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
+2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+6 foci from Lehericy S, 2006: Simple - Rest 
 2 foci from Lerner A, 2004: Tapping - Rest,  Normals 
-2 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
-2 foci from Mattay V S, 1998: Dominant Hand Simple Motor 
-2 foci from Mattay V S, 1998: Dominant Hand Random Motor 
+4 foci from Lutz K, 2000: Random > Rest 
+6 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
 1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Younger  Subjects 
-1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Older Subjects 
 2 foci from Rounis E, 2005: Main Effects of Movement 
 1 foci from Sadato N, 1996: Various Lengths 
-1 foci from Sadato N, 1997: Mirror vs. Rest 
-1 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Right Unimanual vs. Rest 
-1 foci from Sadato N, 1997: Left Unimanual vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
+4 foci from Sadato N, 1997: Mirror vs. Rest 
 2 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
-1 foci from Colebatch J G, 1991: Index - Resst 
-1 foci from Colebatch J G, 1991: Opposition - Rest 
-1 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
-2 foci from Lutz K, 2000: Random > Rest 
-2 foci from Lutz K, 2000: Regular > Rest 
-1 foci from Jancke L, 2000: Auditory Synchronization > Rest 
-1 foci from Jancke L, 2000: Auditory Continuation > Rest 
-1 foci from Jancke L, 2000: Visual Synchronization > Rest 
-1 foci from Jancke L, 2000: Visual Continuation > Rest 
-2 foci from Reference=MNI Indovina I, 2001: Move vs. No-Move 
 
-Contributors to cluster #5
-1 foci from Aoki T, 2005: Ring Finger - Rest 
-2 foci from Aoki T, 2005: Double Finger Tapping - Rest 
+Contributors to cluster #3
+3 foci from Aoki T, 2005: Index Finger - Rest 
 2 foci from Aramaki Y, 2006: Parallel 
 2 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
-1 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Young Subjects 
+1 foci from Colebatch J G, 1991: Index - Resst 
 2 foci from Gerardin E, 2000: Motor Execution vs. Rest 
 2 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
-3 foci from Joliot M, 1999: PET 
-2 foci from Joliot M, 1999: fMRI-Average 
-3 foci from Joliot M, 1999: fMRI-Correlation 
+1 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+6 foci from Joliot M, 1999: PET 
 3 foci from Joliot M, 1998: Finger Tapping - Rest 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-2 foci from Lehericy S, 2006: Simple - Rest 
-4 foci from Lehericy S, 2006: Scale - Rest 
-5 foci from Lehericy S, 2006: Complex - Rest 
-1 foci from Mattay V S, 1998: Dominant Hand Simple Motor 
+1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+9 foci from Lehericy S, 2006: Simple - Rest 
+1 foci from Lerner A, 2004: Tapping - Rest,  Normals 
+1 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
 1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
 1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Younger  Subjects 
-2 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Older Subjects 
 1 foci from Rounis E, 2005: Main Effects of Movement 
 1 foci from Sadato N, 1996: Various Lengths 
-1 foci from Sadato N, 1997: Mirror vs. Rest 
-2 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-2 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
+6 foci from Sadato N, 1997: Mirror vs. Rest 
 1 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
-1 foci from Colebatch J G, 1991: Opposition - Rest 
-1 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+
+Contributors to cluster #4
+3 foci from Aoki T, 2005: Index Finger - Rest 
+2 foci from Aramaki Y, 2006: Parallel 
+1 foci from Blinkenberg M, 1996: Fingertapping vs. Rest 
+4 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
+1 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
+1 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
+1 foci from Denslow S, 2005: TMS 
+1 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
+1 foci from Indovina I, 2001: Move vs. No-Move 
+6 foci from Jancke L, 1999: Right Hand, 1 Hz vs. Rest 
+5 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+2 foci from Joliot M, 1999: PET 
+1 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
+2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+3 foci from Lutz K, 2000: Random > Rest 
+1 foci from Rounis E, 2005: Main Effects of Movement 
+1 foci from Sadato N, 1996: Various Lengths 
+7 foci from Sadato N, 1997: Mirror vs. Rest 
+2 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
+
+Contributors to cluster #5
+1 foci from Aoki T, 2005: Index Finger - Rest 
+4 foci from Aramaki Y, 2006: Parallel 
+2 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
+1 foci from Catalan M J, 1998: Sequence-12 vs. Rest 
+1 foci from Colebatch J G, 1991: Index - Resst 
+1 foci from Gerardin E, 2000: Motor Execution vs. Rest 
+1 foci from Gosain A K, 2001: Finger-tapping vs. Rest 
+4 foci from Jancke L, 2000: Right Fast, Left Slow  
+2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+2 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
+1 foci from Riecker A, 2006: Main Effects During Index Finger Movements, Younger  Subjects 
+1 foci from Sadato N, 1996: Various Lengths 
+7 foci from Sadato N, 1997: Mirror vs. Rest 
+1 foci from Wilson S M, 2004: Moving Fingers 
 
 Contributors to cluster #6
 2 foci from Aramaki Y, 2006: Parallel 
-2 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-1 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Older Subjects 
-1 foci from Gerardin E, 2000: Motor Execution vs. Rest 
-1 foci from Joliot M, 1999: fMRI-Correlation 
-1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Left Hand vs. Baseline 
-1 foci from Lehericy S, 2006: Simple - Rest 
-1 foci from Lehericy S, 2006: Complex - Rest 
-1 foci from Mattay V S, 1998: Dominant Hand Simple Motor 
+3 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
+1 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
+1 foci from Indovina I, 2001: Move vs. No-Move 
+5 foci from Jancke L, 1999: Right Hand, 1 Hz vs. Rest 
+2 foci from Joliot M, 1999: PET 
+1 foci from Kawashima R, 2000: Memory Timed Finger Movement - Rest 
+1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+1 foci from Larsson J, 1996: Visually Triggered Movement - Reference 
+1 foci from Lutz K, 2000: Random > Rest 
 1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
-2 foci from Sadato N, 1997: Mirror vs. Rest 
-2 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
+1 foci from Rounis E, 2005: Main Effects of Movement 
+3 foci from Sadato N, 1997: Mirror vs. Rest 
+1 foci from Yoo S S, 2005: Group-Level Finger Tapping Activation 
 
 Contributors to cluster #7
-1 foci from Aramaki Y, 2006: Parallel 
+1 foci from Aoki T, 2005: Index Finger - Rest 
 1 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
-1 foci from Calautti C, 2001: Left Hand Tapping vs. Rest, Older Subjects 
-1 foci from Joliot M, 1999: fMRI-Average 
-1 foci from Joliot M, 1999: fMRI-Correlation 
-1 foci from Lehericy S, 2006: Complex - Rest 
-1 foci from Sadato N, 1997: Parallel vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Mirror vs. Rest 
-1 foci from Sadato N, 1997: Bimanual Parallel vs. Rest 
-1 foci from Reference=MNI Indovina I, 2001: Move vs. No-Move 
+1 foci from Catalan M J, 1999: Sequence 16 vs. Rest, Controls 
+2 foci from Jancke L, 2000: Auditory Synchronization > Rest 
+1 foci from Joliot M, 1999: PET 
+2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+1 foci from Larsson J, 1996: Visually Triggered Movement - Reference 
+1 foci from Lehericy S, 2006: Simple - Rest 
+1 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
+1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
+3 foci from Sadato N, 1997: Mirror vs. Rest 
+
+Contributors to cluster #8
+2 foci from Aramaki Y, 2006: Parallel 
+2 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
+1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
+1 foci from Gerardin E, 2000: Motor Execution vs. Rest 
+1 foci from Joliot M, 1999: PET 
+1 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+2 foci from Lehericy S, 2006: Simple - Rest 
+1 foci from Muller J L, 2002: Finger Tapping vs. Rest, Healthy Subjects 
+4 foci from Sadato N, 1997: Mirror vs. Rest 
+
+Contributors to cluster #9
+1 foci from Aoki T, 2005: Index Finger - Rest 
+2 foci from Aramaki Y, 2006: Parallel 
+1 foci from Boecker H, 1998: Weighted Mean Performance of All Motor Sequences vs. Rest,  Activations 
+1 foci from Hanakawa T, 2003: Activations In Relation To Response Movement 
+1 foci from Indovina I, 2001: Move vs. No-Move 
+2 foci from Joliot M, 1999: PET 
+2 foci from Kuhtz-Buschbeck J P, 2003: Motor Execution, Complex, Right Hand vs.  Baseline 
+1 foci from Lehericy S, 2006: Simple - Rest 
+2 foci from Mattay V S, 1998: Non-Dominant Hand Simple Motor 
+1 foci from Rounis E, 2005: Main Effects of Movement 
+
+Contributors to cluster #10
+1 foci from Aramaki Y, 2006: Parallel 
+1 foci from Calautti C, 2001: Right Hand Tapping vs. Rest, Young Subjects 
+1 foci from Indovina I, 2001: Move vs. No-Move 
+1 foci from Joliot M, 1999: PET 
+1 foci from Lehericy S, 2006: Simple - Rest 
+2 foci from Sadato N, 1997: Mirror vs. Rest 
